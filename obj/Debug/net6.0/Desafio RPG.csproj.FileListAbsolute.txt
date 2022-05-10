@@ -1,0 +1,15 @@
+E:\Bootcamp DIO C#\Desafio RPG\bin\Debug\net6.0\Desafio RPG.exe
+E:\Bootcamp DIO C#\Desafio RPG\bin\Debug\net6.0\Desafio RPG.deps.json
+E:\Bootcamp DIO C#\Desafio RPG\bin\Debug\net6.0\Desafio RPG.runtimeconfig.json
+E:\Bootcamp DIO C#\Desafio RPG\bin\Debug\net6.0\Desafio RPG.dll
+E:\Bootcamp DIO C#\Desafio RPG\bin\Debug\net6.0\Desafio RPG.pdb
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.csproj.AssemblyReference.cache
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.AssemblyInfoInputs.cache
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.AssemblyInfo.cs
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.csproj.CoreCompileInputs.cache
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.dll
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\refint\Desafio RPG.dll
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.pdb
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\Desafio RPG.genruntimeconfig.cache
+E:\Bootcamp DIO C#\Desafio RPG\obj\Debug\net6.0\ref\Desafio RPG.dll
